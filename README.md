@@ -16,5 +16,7 @@ Phase 2:
 -Configure the link aggregation with EtherChannel.
 
 -Explain how LAN attacks compromise LAN security.
+
 -Configure switch security techniques to mitigate LAN attacks.
+
 -Configure dynamic routing protocols: Single-Area OSPFv2.
